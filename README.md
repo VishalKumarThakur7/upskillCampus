@@ -61,7 +61,8 @@ This project was developed during my **Industrial Internship in Data Science & M
 ## 📂 Project Structure
 house-price-prediction/
 │── Housing.csv
+│── Industrial Internship Report Vishal.pdf
 │── README.md
 │── data.csv
 │── house_price.py
-│── Industrial Internship Report Vishal.pdf
+
